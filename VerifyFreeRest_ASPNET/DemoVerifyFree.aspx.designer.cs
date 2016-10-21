@@ -22,6 +22,15 @@ namespace VerifyFreeRest_ASPNET {
         protected global::System.Web.UI.HtmlControls.HtmlForm DemoVerifyFree;
         
         /// <summary>
+        /// Controllo Image1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image Image1;
+        
+        /// <summary>
         /// Controllo txtKey.
         /// </summary>
         /// <remarks>

@@ -98,6 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DemoVerifyFree.aspx" />
+    <Content Include="images\logo-street-master.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
