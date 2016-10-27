@@ -8,7 +8,7 @@ namespace VerifyFreeRest_ASPNET
     /// realizzato da StreetMaster Italia
     /// 
     /// L'end point del servizio è 
-    ///     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/verify_free
+    ///     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/webresources/verify_free
     ///     
     /// Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio Verify Free solo localita' 
     /// Il protocollo di comunicazione e' in formato JSON
