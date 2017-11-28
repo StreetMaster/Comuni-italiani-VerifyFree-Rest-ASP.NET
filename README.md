@@ -1,6 +1,6 @@
-# Webservice gratuito di verifica e correzione dei comuni italiani - servizio free
+# Comuni italiani. Webservice gratuito di verifica e correzione. Servizio free
 ## Demo VerifyFree Rest ASP.NET
-Demo ASP.NET per l'utilizzo del ws rest VERIFY FREE di verifica e correzione dei comuni italiani. Il servizio è gratuito.
+Comuni italiani, demo ASP.NET per l'utilizzo del ws rest VERIFY FREE di verifica e correzione. Il servizio è gratuito.
 
 ### Ambiente di sviluppo:
   - C#
