@@ -9,7 +9,7 @@ Comuni italiani, aoluzione ASP.NET per l'utilizzo del ws rest VERIFY FREE di ver
  
 ### Endpoint
 ```
-     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/verify_free
+     https://streetmaster.streetmaster.it/smrest/verify_free
 ```
 Il protocollo di comunicazione e' in formato JSON e viene utilizzata la libreria opensource RestSharp (http://restsharp.org/)
 
